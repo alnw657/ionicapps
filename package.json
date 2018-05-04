@@ -1,0 +1,22 @@
+{
+  "name": "ionicapps",
+  "version": "1.0.0",
+  "description": "ionic app, button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alnw657/ionicapps.git"
+  },
+  "keywords": [
+    "ionic"
+  ],
+  "author": "alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alnw657/ionicapps/issues"
+  },
+  "homepage": "https://github.com/alnw657/ionicapps#readme"
+}
